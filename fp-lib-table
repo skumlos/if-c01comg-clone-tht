@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name molex-fpc)(type KiCad)(uri "$(KIPRJMOD)/molex-fpc.pretty")(options "")(descr "Molex FPC"))
+  (lib (name fpc-tht-14p)(type KiCad)(uri "$(KIPRJMOD)/fpc-tht-14p.pretty")(options "")(descr ""))
+)
